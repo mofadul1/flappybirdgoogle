@@ -42,9 +42,9 @@
 }
 
 #character {
-  width: 25px;
-  height: 25px;
-  background-image: url("google1logo.png");
+  width: 40px;
+  height: 40px;
+  background-image: url("https://www.animatedimages.org/data/media/196/animated-bat-image-0050.gif");
   position: absolute;
   top: 100px;
   border-radius: 50%;
